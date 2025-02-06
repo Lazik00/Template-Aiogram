@@ -1,0 +1,14 @@
+1.Berilgan listdagi sonlarning nechtasi juft ekanligini chiqaradigan funksiya tuzing
+
+
+
+2.Berilgan listdagi sonlarning yigindisini toping.agar list ichida 13 raqami bolsa 13ni va undan keyingi raqamlarni hisoblamang
+
+
+3.Inputda string kiritiladi.Kiritilgan stringga "not" sozi qoshib qaytarilsin.Agar inputda "not" sozi bilan boshlangan string kiritilsa osha kiritilgan stringni ozi qaytarilsin stringni ozi qaytarilsin
+
+
+4.Foydalanuvchi 1ta yoki undan kop soz  kiritsa, kiritilgan  so‘zlar sonini va umumiy belgilar sonini aniqlaydigan funksiya yozing.
+
+
+5.Foydalanuvchi biror matn va qidirilayotgan belgi kiritadi. Dastur ushbu matndagi belgi necha marta qatnashganini hisoblaydigan funksiya yozishi kerak.
